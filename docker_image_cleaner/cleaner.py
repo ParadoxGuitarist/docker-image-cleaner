@@ -7,6 +7,7 @@ This serves as a substitute for Kubernetes ImageGC
 which has thresholds that are not sufficiently configurable on GKE
 at this time.
 """
+
 import logging
 import os
 import time
